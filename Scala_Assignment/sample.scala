@@ -15,5 +15,5 @@ Open spark shell in terminal
 
 //Command to load scala program:   :load directory/program_name.scala
 
-Command to execute scala program:   program_name.main(Array())
+Command to execute scala program:   sample.main(Array())
 
